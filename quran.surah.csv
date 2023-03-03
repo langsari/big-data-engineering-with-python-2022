@@ -1,0 +1,115 @@
+﻿Surah,arabic,latin,NameEng,sajda,sumayah,types
+1,سورة الفاتحة,Al-Fatiha,The Opening,0,7,Makiyah
+2,سورة البقرة,Al-Baqara,The Cow,0,286,Madaniyah
+3,سورة آل عمران,Aal-e-Imran,The Family of Imraan,0,200,Madaniyah
+4,سورة النساء,An-Nisa,The Women,0,176,Madaniyah
+5,سورة المائدة,Al-Maeda,The Table,0,120,Madaniyah
+6,سورة الأنعام,Al-Anaam,The Cattle,0,165,Makiyah
+7,سورة الأعراف,Al-Araf,The Heights,206,206,Makiyah
+8,سورة الأنفال,Al-Anfal,The Spoils of War,0,75,Madaniyah
+9,سورة التوبة,At-Taubah,The Repentance,0,129,Madaniyah
+10,سورة يونس,Yunus,Jonas,0,109,Makiyah
+11,سورة هود,Hud,Hud,0,123,Makiyah
+12,سورة يوسف,Yusuf,Joseph,0,111,Makiyah
+13,سورة الرعد,Ar-Rad,The Thunder,15,43,Madaniyah
+14,سورة إبراهيم,Ibrahim,Abraham,0,52,Makiyah
+15,سورة الحجر,Al-Hijr,The Rock,0,99,Makiyah
+16,سورة النحل,An-Nahl,The Bee,50,128,Makiyah
+17,سورة الإسراء,Al-Isra,The Night Journey,100,111,Makiyah
+18,سورة الكهف,Al-Kahf,The Cave,0,110,Makiyah
+19,سورة مريم,Maryam,Mary,58,98,Makiyah
+20,سورة طه,Taha,Taa-Haa,0,135,Makiyah
+21,سورة الأنبياء,Al-Anbiya,The Prophets,0,112,Makiyah
+22,سورة الحج,Al-Hajj,The Pilgrimage,18,78,Madaniyah
+23,سورة المؤمنون,Al-Mumenoon,The Believers,0,118,Makiyah
+24,سورة النور,An-Noor,The Light,0,64,Madaniyah
+25,سورة الفرقان,Al-Furqan,The Criterion,60,77,Makiyah
+26,سورة الشعراء,Ash-Shuara,The Poets,0,227,Makiyah
+27,سورة النمل,An-Naml,The Ant,26,93,Makiyah
+28,سورة القصص,Al-Qasas,The Stories,0,88,Makiyah
+29,سورة العنكبوت,Al-Ankaboot,The Spider,0,69,Makiyah
+30,سورة الروم,Ar-Room,The Romans,0,60,Makiyah
+31,سورة لقمان,Luqman,Luqman,0,34,Makiyah
+32,سورة السجدة,As-Sajda,The Prostration,15,30,Makiyah
+33,سورة الأحزاب,Al-Ahzab,The Clans,0,73,Madaniyah
+34,سورة سبأ,Saba,Sheba,0,54,Makiyah
+35,سورة فاطر,Fatir,The Originator,0,45,Makiyah
+36,سورة يس,Ya Seen,Yaseen,0,83,Makiyah
+37,سورة الصافات,As-Saaffat,Those drawn up in Ranks,0,182,Makiyah
+38,سورة ص,Sad,The letter Saad,24,88,Makiyah
+39,سورة الزمر,Az-Zumar,The Groups,0,75,Makiyah
+40,سورة غافر,Ghafir,The Forgiver,0,85,Makiyah
+41,سورة فصلت,Fussilat,Explained in detail,38,54,Makiyah
+42,سورة الشورى,Ash-Shura,Consultation,0,53,Makiyah
+43,سورة الزخرف,Az-Zukhruf,Ornaments of gold,0,89,Makiyah
+44,سورة الدخان,Ad-Dukhan,The Smoke,0,59,Makiyah
+45,سورة الجاثية,Al-Jathiya,Crouching,0,37,Makiyah
+46,سورة الأحقاف,Al-Ahqaf,The Dunes,0,35,Makiyah
+47,سورة محمد,Muhammad,Muhammad,0,38,Madaniyah
+48,سورة الفتح,Al-Fath,The Victory,0,29,Madaniyah
+49,سورة الحجرات,Al-Hujraat,The Inner Apartments,0,18,Madaniyah
+50,سورة ق,Qaf,The letter Qaaf,0,45,Makiyah
+51,سورة الذاريات,Adh-Dhariyat,The Winnowing Winds,0,60,Makiyah
+52,سورة الطور,At-tur,The Mount,0,49,Makiyah
+53,سورة النجم,An-Najm,The Star,62,62,Makiyah
+54,سورة القمر,Al-Qamar,The Moon,0,55,Makiyah
+55,سورة الرحمن,Al-Rahman,The Beneficent,0,78,Madaniyah
+56,سورة الواقعة,Al-Waqia,The Inevitable,0,96,Makiyah
+57,سورة الحديد,Al-Hadid,The Iron,0,29,Madaniyah
+58,سورة المجادلة,Al-Mujadila,The Pleading Woman,0,22,Madaniyah
+59,سورة الحشر,Al-Hashr,The Exile,0,24,Madaniyah
+60,سورة الممتحنة,Al-Mumtahina,She that is to be examined,0,13,Madaniyah
+61,سورة الصف,As-Saff,The Ranks,0,14,Madaniyah
+62,سورة الجمعة,Al-Jumua,Friday,0,11,Madaniyah
+63,سورة المنافقون,Al-Munafiqoon,The Hypocrites,0,11,Madaniyah
+64,سورة التغابن,At-Taghabun,Mutual Disillusion,0,18,Madaniyah
+65,سورة الطلاق,At-Talaq,Divorce,0,12,Madaniyah
+66,سورة التحريم,At-Tahrim,The Prohibition,0,12,Madaniyah
+67,سورة الملك,Al-Mulk,The Sovereignty,0,30,Makiyah
+68,سورة القلم,Al-Qalam,The Pen,0,52,Makiyah
+69,سورة الحاقة,Al-Haaqqa,The Reality,0,52,Makiyah
+70,سورة المعارج,Al-Maarij,The Ascending Stairways,0,44,Makiyah
+71,سورة نوح,Nooh,Noah,0,28,Makiyah
+72,سورة الجن,Al-Jinn,The Jinn,0,28,Makiyah
+73,سورة المزمل,Al-Muzzammil,The Enshrouded One,0,20,Makiyah
+74,سورة المدثر,Al-Muddathir,The Cloaked One,0,56,Makiyah
+75,سورة القيامة,Al-Qiyama,The Resurrection,0,40,Makiyah
+76,سورة الإنسان,Al-Insan,Man,0,31,Madaniyah
+77,سورة المرسلات,Al-Mursalat,The Emissaries,0,50,Makiyah
+78,سورة النبأ,An-Naba,The Announcement,0,40,Makiyah
+79,سورة النازعات,An-Naziat,Those who drag forth,0,46,Makiyah
+80,سورة عبس,Abasa,He frowned,0,42,Makiyah
+81,سورة التكوير,At-Takwir,The Overthrowing,0,29,Makiyah
+82,سورة الإنفطار,AL-Infitar,The Cleaving,0,19,Makiyah
+83,سورة المطففين,Al-Mutaffifin,Defrauding,0,36,Makiyah
+84,سورة الانشقاق,Al-Inshiqaq,The Splitting Open,21,25,Makiyah
+85,سورة البروج,Al-Burooj,The Constellations,0,22,Makiyah
+86,سورة الطارق,At-Tariq,The Morning Star,0,17,Makiyah
+87,سورة الأعلى,Al-Ala,The Most High,0,19,Makiyah
+88,سورة الغاشية,Al-Ghashiya,The Overwhelming,0,26,Makiyah
+89,سورة الفجر,Al-Fajr,The Dawn,0,30,Makiyah
+90,سورة البلد,Al-Balad,The City,0,20,Makiyah
+91,سورة الشمس,Ash-Shams,The Sun,0,15,Makiyah
+92,سورة الليل,Al-Lail,The Night,0,21,Makiyah
+93,سورة الضحى,Ad-Dhuha,The Morning Hours,0,11,Makiyah
+94,سورة الشرح,Al-Inshirah,The Consolation,0,8,Makiyah
+95,سورة التين,At-Tin,The Fig,0,8,Makiyah
+96,سورة العلق,Al-Alaq,The Clot,19,19,Makiyah
+97,سورة القدر,Al-Qadr,"The Power, Fate",0,5,Makiyah
+98,سورة البينة,Al-Bayyina,The Evidence,0,8,Madaniyah
+99,سورة الزلزلة,Al-Zalzala,The Earthquake,0,8,Madaniyah
+100,سورة العاديات,Al-Adiyat,The Chargers,0,11,Makiyah
+101,سورة القارعة,Al-Qaria,The Calamity,0,11,Makiyah
+102,سورة التكاثر,At-Takathur,Competition,0,8,Makiyah
+103,سورة العصر,Al-Asr,"The Declining Day, Epoch",0,3,Makiyah
+104,سورة الهمزة,Al-Humaza,The Traducer,0,9,Makiyah
+105,سورة الفيل,Al-fil,The Elephant,0,5,Makiyah
+106,سورة قريش,Quraish,Quraysh,0,4,Makiyah
+107,سورة الماعون,Al-Maun,Almsgiving,0,7,Makiyah
+108,سورة الكوثر,Al-Kauther,Abundance,0,3,Makiyah
+109,سورة الكافرون,Al-Kafiroon,The Disbelievers,0,6,Makiyah
+110,سورة النصر,An-Nasr,Divine Support,0,3,Madaniyah
+111,سورة المسد,Al-Masadd,The Blazing Flames,0,5,Makiyah
+112,سورة الإخلاص,Al-Ikhlas,Sincerity,0,4,Makiyah
+113,سورة الفلق,Al-Falaq,The Dawn,0,5,Makiyah
+114,سورة الناس,An-Nas,Mankind,0,6,Makiyah
