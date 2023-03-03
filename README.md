@@ -26,12 +26,12 @@ This project is a part of big data and data warehouse course (DS2303-314).In thi
 6. How namy time that 'مَّوَدَّةٗ' have in Quran with show the index,ayah,surah id, surah name, text(arabic), translate in english and how many time in each surah ?
  Ans: The word 'مَّوَدَّةٗ' appears 3 times in the Quran. and you can see the answer on my code
 7. How namy words in Quran (I count it from column 'text' (arabic language))? Ans:The total number of words in the 'text' column is: 77429
-8.10 surah that have the most word ? Ans  that will show Surah_id,namesurah,Surah meaning,Word Count
-9.what The most and the min common words in Quran? Ans The most common word is 'فِي', which appears 1098 times.
+8. 10 surah that have the most word ? Ans  that will show Surah_id,namesurah,Surah meaning,Word Count
+9. what The most and the min common words in Quran? Ans The most common word is 'فِي', which appears 1098 times.
 The minimum common word is 'مَٰلِكِ', which appears 1 times.
 10. How many sajadah mark that's have on Quran ? ANS :There are 15 sajdah marks in the entire Quran.
 11. Show the verse that have sajadah?? 
-12.Which surah that have more than 200 ayah  with show surahid,surah,surahmeaning,countayah
+12. Which surah that have more than 200 ayah  with show surahid,surah,surahmeaning,countayah
 # Data source
 https://www.kaggle.com/datasets/alizahidraja/quran-english?select=Quran_English_with_Tafseer.csv&fbclid=IwAR1nsdwHtAKdEuv3WfaQOf59-jygJe5o5uLnXvvcLfqwKxNA6JVvYRCbkLI
  
