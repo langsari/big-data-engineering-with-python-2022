@@ -5,7 +5,7 @@ Big Data Engineering with Python
 This repository contains all data that is related with Al-Quran(Translation by Rowwad), from the Ayah(Text and translation), Tafsir(explanation) ,surah and word by word. It's collected from open sources and stored as file.csv to make it easy to use in various programming language.In this section, we have analyzed the data using the star schema design method for efficient data analysis and bring it into the process of programming to make it easier to run.
 
 
-# Tool of use
+# Tools of use
 - Github, Github desktop 
 - Postgresql
 - Excel
