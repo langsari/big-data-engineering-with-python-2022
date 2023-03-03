@@ -19,7 +19,7 @@ This project is a part of big data and data warehouse course (DS2303-314).In thi
 
 # Question and Answer
 1. How many surah in Quran? 
-2.How many surah makkiyah and madaniyah? Ans Makkiyah surah count: 86 and Madaniyah surah count: 28
+2. How many surah makkiyah and madaniyah? Ans Makkiyah surah count: 86 and Madaniyah surah count: 28
 3. Count total ayah in each surah?
 4. Show text from surah baqarah ?
 5. How namy time that 'Muhammad' have in Quran ? Ans: The word 'Muhammad' appears 276 times in the Quran.
