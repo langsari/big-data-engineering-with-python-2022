@@ -27,17 +27,24 @@ en_rwwad2.en_translate for display
 - 👉 2.Analyze data perform analysis and synthesis of data what we having data.
 - 👉 3.Insert data to postgresql by using file.csv
 - 👉 4.Create question that we need to know that are about quran.
-   - 1.Which surah that have 'wisdom' (حِكۡمَةَ)
-   - 2.Surah with more than 200 ayah
-   - 3.The most frequently mentioned text
+   - 1.Surah that have 'wisdom' (حِكۡمَةَ)
+   - 2.Total number of surahs in the Quran
+   - 3.Total number of ayahs in the Quran
+   - 4.The total number of words in the Quran
+   - 5.The total number of letters in the Quran
+   - 6.Number of Surahs in Makiyah
+   - 7.Number of Surahs in Madaniyah
+   - 8.Surah with the smallest number of ayahs
+   - 9.Surah with the largest number of ayahs
+   - 10.Ayahs with the largest
+   - 11.The most frequently mentioned text
      - in en_translate
      - in arabic
-   - 4.The most common word
+   - 12.The most common word
      - in en_translate
      - in arabic
-   - 5.which surah that have ٱلۡحَمۡدُ لِلَّهِ
-   - 6.Surah with the smallest number of ayahs
-   - 7.Surah with the largest number of ayahs
+   - 13.Surah with more than 200 ayah
+   - 14.which surah that have ٱلۡحَمۡدُ لِلَّهِ
 - 👉 5.Retrieve data from database by using select statement
 - 👉 6.Check result
 
