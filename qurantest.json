@@ -1,0 +1,44 @@
+{
+  "verses": [
+    {
+      "verseNumber": 1,
+      "verseString": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "In the name of Allah, the Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 2,
+      "verseString": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseStringB": "Praise be to Allah, Lord of the Worlds."
+    },
+    {
+      "verseNumber": 3,
+      "verseString": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "verseStringB": "The Compassionate, the Merciful."
+    },
+    {
+      "verseNumber": 4,
+      "verseString": "مَالِكِ يَوْمِ الدِّينِ",
+      "verseStringB": "Master of the Day of Judgment."
+    },
+    {
+      "verseNumber": 5,
+      "verseString": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "verseStringB": "You alone we worship; and upon You, we call for help."
+    },
+    {
+      "verseNumber": 6,
+      "verseString": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "verseStringB": "Guide us along the straight path."
+    },
+    {
+      "verseNumber": 7,
+      "verseString": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "verseStringB": "The path of those You have blessed, not of those with anger on them, nor of the misguided."
+    }
+  ],
+  "nameEnglish": "The Opening",
+  "nameTrans": "al-Fatihah",
+  "nameArabic": "الفاتحة",
+  "chapterNumber": 1,
+  "nVerses": 7
+}
